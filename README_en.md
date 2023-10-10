@@ -1,3 +1,4 @@
+[中文](README.md) | English
 # Book Library Project
 
 This project offers a simple book management system, allowing users to manage, search for, and store books.
