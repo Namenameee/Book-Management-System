@@ -1,7 +1,11 @@
 中文 | [English](README_en.md)
-# 书籍图书馆项目
 
+# 书籍图书馆项目
 这个项目提供了一个简单的书籍管理系统，允许用户管理、查询和存储书籍。
+<div align=center>
+<img src="https://cdn.mathpix.com/snip/images/5V4kLKp48U2gvrDGdB8LJTMyqunkkWxiD102e4iDM9A.original.fullsize.png" width = 350/>
+</div>
+
 
 ## 项目结构
 
