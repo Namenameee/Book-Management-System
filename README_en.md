@@ -1,7 +1,11 @@
 [中文](README.md) | English
 # Book Library Project
-
 This project offers a simple book management system, allowing users to manage, search for, and store books.
+
+<div align="center">
+<img <img src="https://cdn.mathpix.com/snip/images/5V4kLKp48U2gvrDGdB8LJTMyqunkkWxiD102e4iDM9A.original.fullsize.png" width=350/>
+ 
+</div>
 
 ## Project Structure
 ```
